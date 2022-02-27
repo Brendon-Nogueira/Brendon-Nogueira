@@ -1,7 +1,7 @@
 ### Olá eu sou Brendon Augusto de Souza Nogueira. Seja bem-vindo ao meu Perfil.
 
 
-- 🔭 Hoje trabalho na empresa Aptiv, como operador de produção I
+- 🔭 Hoje trabalho na empresa Aptiv, em busca de uma oportunidade para atuar na área de T.I.
 - 🌱 Atualmente estou cursando Bacharel em Sistemas de Informação na instituição Universidade do Vale do Sapucaí - UNIVÁS.
 - 📫 Contate-me no email: brendonaugusto21@gmail.com
 
