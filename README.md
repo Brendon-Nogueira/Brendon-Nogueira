@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho na empresa Aptiv, em busca de uma oportunidade para atuar na área de T.I.
-- 🌱 Atualmente estou cursando 5° período Bacharel em Sistemas de Informação na instituição Universidade do Vale do Sapucaí - UNIVÁS.
+- 🌱 Atualmente estou cursando 6° período Bacharel em Sistemas de Informação na instituição Universidade do Vale do Sapucaí - UNIVÁS.
 - 📫 Contate-me no email: brendonaugusto21@gmail.com
 
 <div align="center">
