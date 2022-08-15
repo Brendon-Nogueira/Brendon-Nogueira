@@ -1,7 +1,8 @@
-### Olá eu sou Brendon Augusto de Souza Nogueira. Seja bem-vindo ao meu Perfil.
+### Olá eu sou Brendon Augusto de Souza Nogueira. Tenho 23 anos sou natural da cidade de Paraisópolis - MG
+Seja bem-vindo ao meu Perfil.
 
 
-- 🔭 Hoje trabalho na empresa Aptiv, em busca de uma oportunidade para atuar na área de T.I.
+- 🔭 Em busca de uma oportunidade para atuar na área de T.I.
 - 🌱 Atualmente estou cursando 6° período Bacharel em Sistemas de Informação na instituição Universidade do Vale do Sapucaí - UNIVÁS.
 - 📫 Contate-me no email: brendonaugusto21@gmail.com
 
@@ -18,6 +19,7 @@
   <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Brendon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Brendon-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ##
