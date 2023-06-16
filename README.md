@@ -1,5 +1,5 @@
 ### Olá eu sou Brendon Augusto de Souza Nogueira.
-Tenho 23 anos sou natural da cidade de Paraisópolis - MG, comecei meus estudos no ano de 2020, ingressando na faculdade em Bacharel de Sistemas de Informação.
+Tenho 24 anos sou natural da cidade de Paraisópolis - MG, inicie meus estudos no ano de 2020 na Universidade do Vale do Sapuca em Bacharel de Sistemas de Informação.
 Seja bem-vindo ao meu Perfil.
 
 
