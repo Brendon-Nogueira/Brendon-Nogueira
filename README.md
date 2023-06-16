@@ -3,9 +3,9 @@ Tenho 23 anos sou natural da cidade de Paraisópolis - MG, comecei meus estudos 
 Seja bem-vindo ao meu Perfil.
 
 
-- 🔭 Em busca de uma oportunidade para atuar na área de T.I.
+- 🔭 Atuamente trabalho como Full Stack na empresa Aptiv ,atuando com melhorias e criação de sistemas de manufatura utilizando HTML, CSS, JS, PHP e SQL SERVER.
 - 🌱 Atualmente estou cursando 7° período Bacharel em Sistemas de Informação na instituição Universidade do Vale do Sapucaí - UNIVÁS.
-- 📫 Contate-me no email: brendonaugusto21@gmail.com
+- 📫 Contate-me no email: brendonnogueira21@gmail.com
 
 <div align="center">
   <a href="https://github.com/Brendon-Nogueira">
