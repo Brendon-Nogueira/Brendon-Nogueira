@@ -4,7 +4,7 @@ Seja bem-vindo ao meu Perfil.
 
 
 - 🔭Atualmente, trabalho como Full Stack na empresa Aptiv, onde sou responsável por melhorias e desenvolvimento de sistemas de manufatura. Minhas habilidades incluem HTML, CSS, JavaScript, PHP e SQL Server.
-- 🌱 Atualmente cursando o 7º período do Bacharelado em Sistemas de Informação na Universidade do Vale do Sapucaí - UNIVÁS.
+- 🌱 Atualmente cursando o 8º período do Bacharelado em Sistemas de Informação na Universidade do Vale do Sapucaí - UNIVÁS.
 - 📫 Contate-me no email: brendonnogueira21@gmail.com
 
 <div align="center">
