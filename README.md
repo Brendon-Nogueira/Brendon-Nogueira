@@ -1,11 +1,47 @@
 ### Olá eu sou Brendon Augusto de Souza Nogueira.
-Tenho 24 anos sou natural da cidade de Paraisópolis - MG, inicie meus estudos no ano de 2020 na Universidade do Vale do Sapuca em Bacharel de Sistemas de Informação.
 Seja bem-vindo ao meu Perfil.
 
+Desenvolvedor Web Jr. | Especializado em JavaScript, React e Desenvolvimento Full Stack
 
-- 🔭Atualmente, trabalho como Desenvolvedor Web  na empresa Aptiv, onde sou responsável por melhorias e desenvolvimento de sistemas de manufatura. Minhas habilidades incluem HTML, CSS, JavaScript, PHP e SQL Server.
-- 🌱 Formação  Bacharelado em Sistemas de Informação na Universidade do Vale do Sapucaí - UNIVÁS. Em dezembro de 2023
-- 📫 Contate-me no email: brendonnogueira21@gmail.com
+Graduado em Sistemas de Informação, com sólida experiência em tecnologias web como JavaScript, React, PHP, SQL Server, além de frameworks modernos como Spring Boot e Bootstrap. Desde 2023, tenho atuado profissionalmente no desenvolvimento de soluções web, com foco em aplicações escaláveis e responsivas, utilizando JavaScript, React.js e Angular.
+
+Atualmente, trabalho como Desenvolvedor Web Jr., onde contribuo para a criação de soluções voltadas à manufatura, aplicando diariamente HTML, CSS, JavaScript, PHP e SQL Server. Minha abordagem inclui a entrega de soluções de alta qualidade alinhadas às necessidades dos usuários e aos objetivos de negócios.
+
+Estou constantemente aprimorando minhas habilidades em tecnologias emergentes e práticas ágeis, como Scrum e Kanban, buscando sempre me capacitar além da formação acadêmica.
+
+Hard skills:
+
+Linguagens & Frameworks
+
+ • JavaScript | TypeScript | PHP | Java
+ • HTML5 | CSS3 | SASS
+ • React.js | Angular | Node.js | Spring Boot | Bootstrap
+
+Bancos de Dados
+
+ • SQL Server | MySQL
+
+APIs & Arquitetura
+
+ • REST APIs | APIs REST | MVC
+
+Ferramentas & Metodologias
+
+ • Git | CI/CD | Ágil (Scrum, Kanban)
+
+Ferramentas:
+
+ • Visual Studio Code;
+ • GitHub;
+ 
+Soft Skills
+
+ • Proatividade e Resiliência
+ • Habilidade em Aprendizado Rápido
+ • Foco em Soluções Eficientes
+ • Organização e Gestão de Processos
+ • Competência em Resolução de Problemas
+ • Facilidade para Dar e Receber Feedback
 
 <div align="center">
   <a href="https://github.com/Brendon-Nogueira">
