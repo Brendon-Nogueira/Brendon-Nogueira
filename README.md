@@ -1,7 +1,7 @@
 ### Olá eu sou Brendon Augusto de Souza Nogueira.
 Seja bem-vindo ao meu Perfil.
 
-Desenvolvedor Web PL. | Especializado em JavaScript, React e Desenvolvimento Full Stack
+Desenvolvedor Web JR. | Especializado em JavaScript, React e Desenvolvimento Full Stack
 
 Graduado em Sistemas de Informação, com sólida experiência em tecnologias web como JavaScript, React, PHP, SQL Server, além de frameworks modernos como Spring Boot e Bootstrap. Desde 2023, tenho atuado profissionalmente no desenvolvimento de soluções web, com foco em aplicações escaláveis e responsivas, utilizando JavaScript, React.js e Angular.
 
