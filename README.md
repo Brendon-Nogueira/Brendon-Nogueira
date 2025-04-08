@@ -3,7 +3,7 @@ Seja bem-vindo ao meu Perfil.
 
 Desenvolvedor Web  | Especializado em JavaScript, React e Desenvolvimento Full Stack
 
-Graduado em Sistemas de Informação, com sólida experiência em tecnologias web como JavaScript, React, PHP, SQL Server, além de frameworks modernos como Spring Boot e Bootstrap. Desde 2023, tenho atuado profissionalmente no desenvolvimento de soluções web, com foco em aplicações escaláveis e responsivas, utilizando JavaScript, React.js e Angular.
+Graduado em Sistemas de Informação, com sólida experiência em tecnologias web como JavaScript, React, PHP, SQL Server, além de frameworks modernos como Spring Boot e Bootstrap. Desde 2023, tenho atuado profissionalmente no desenvolvimento de soluções web, com foco em aplicações escaláveis e responsivas, utilizando JavaScript, React.js.
 
 Atualmente, trabalho como Desenvolvedor Web , onde contribuo para a criação de soluções voltadas à manufatura, aplicando diariamente HTML, CSS, JavaScript, PHP e SQL Server. Minha abordagem inclui a entrega de soluções de alta qualidade alinhadas às necessidades dos usuários e aos objetivos de negócios.
 
