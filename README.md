@@ -1,69 +1,60 @@
-### Olá eu sou Brendon Augusto de Souza Nogueira.
-Seja bem-vindo ao meu Perfil.
+# Olá! Eu sou o Brendon Augusto 👋 🚀
+### Full Stack Developer | Especializado em Soluções Web & Manufatura
 
-Desenvolvedor Web  | Especializado em JavaScript, React e Desenvolvimento Full Stack
+---
 
-Graduado em Sistemas de Informação, com sólida experiência em tecnologias web como JavaScript, React, PHP, banco de dados SQL Server, além de frameworks modernos como Nextjs e Bootstrap. Desde 2023, tenho atuado profissionalmente no desenvolvimento de soluções web, com foco em aplicações escaláveis e responsivas, utilizando JavaScript, React.js.
+### 👨‍💻 Sobre Mim
+Desenvolvedor Web com sólida formação em **Sistemas de Informação**. Atuando desde 2023 na criação de aplicações escaláveis e responsivas, com foco em ecossistemas **JavaScript**, **React** e **PHP**.
 
-Atualmente, trabalho como Desenvolvedor Web , onde contribuo para a criação de soluções voltadas à manufatura, aplicando diariamente HTML, CSS, JavaScript, PHP e SQL Server. Minha abordagem inclui a entrega de soluções de alta qualidade alinhadas às necessidades dos usuários e aos objetivos de negócios.
+Atualmente, trabalho no desenvolvimento de soluções voltadas para o setor de **manufatura**, onde aplico diariamente tecnologias como React.js, PHP e SQL Server para otimizar processos e entregar valor real aos usuários e ao negócio. Sou movido pelo aprendizado contínuo de tecnologias emergentes e pela aplicação de metodologias ágeis (**Scrum/Kanban**).
 
-Estou constantemente aprimorando minhas habilidades em tecnologias emergentes e práticas ágeis, como Scrum e Kanban, buscando sempre me capacitar além da formação acadêmica.
+---
 
-Hard skills:
+### 🛠️ Minha Stack Tecnológica
 
-Linguagens & Frameworks
+#### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,bootstrap)](https://skillicons.dev)
 
- • JavaScript | TypeScript | PHP | Java
- • HTML5 | CSS3 | SASS
- • React.js | NextJs | Node.js | Bootstrap
+#### **Backend & Banco de Dados**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,java,spring,mysql,postgres,sqlite)](https://skillicons.dev)
+> *Nota: Experiência sólida com **SQL Server** em ambientes corporativos.*
 
-Bancos de Dados
+#### **Ferramentas & Fluxo de Trabalho**
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma)](https://skillicons.dev)
 
- • SQL Server | MySQL | Postgress
+---
 
-APIs & Arquitetura
-
- • REST APIs | APIs REST | MVC
-
-Ferramentas & Metodologias
-
- • Git | CI/CD | Ágil (Scrum, Kanban)
-
-Ferramentas:
-
- • Visual Studio Code;
- • GitHub;
- 
-Soft Skills
-
- • Proatividade e Resiliência
- • Habilidade em Aprendizado Rápido
- • Foco em Soluções Eficientes
- • Organização e Gestão de Processos
- • Competência em Resolução de Problemas
- • Facilidade para Dar e Receber Feedback
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Brendon-Nogueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brendon-Nogueira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon-Nogueira&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Brendon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Brendon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Brendon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Brendon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Brendon-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Brendon-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Brendon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Brendon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Brendon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Brendon-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
+
+---
+
+### 🧠 Soft Skills
+- **Resiliência & Proatividade**: Foco em resolver problemas complexos com calma e eficiência.
+- **Aprendizado Rápido**: Facilidade em absorver novas tecnologias e regras de negócio.
+- **Gestão & Organização**: Experiência com processos estruturados e fluxos de trabalho ágeis.
+- **Comunicação**: Habilidade em dar e receber feedbacks construtivos para evolução do time.
+
+---
+
+### 📫 Vamos Conversar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brendon-nogueira-7b95151b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:brendonaugusto21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/http.brxdon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
-  <div> 
-  <a href="https://www.instagram.com/http.brxdon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brendonaugusto21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brendon-nogueira-7b95151b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<p align="center">
+  <i>"Transformando café em código e problemas em soluções."</i>
+</p>
